@@ -1,0 +1,1 @@
+C:\Users\Blacness\IdeaProjects\EU4TestNGSelenium\src\test\resources\textfile.txt
